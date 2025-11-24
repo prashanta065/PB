@@ -1,2 +1,2 @@
-# PB
-My protfolio website
+# Protfolio
+A protfolio website
